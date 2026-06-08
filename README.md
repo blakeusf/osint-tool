@@ -3,9 +3,9 @@
 A modular OSINT automation tool that queries multiple threat intelligence sources for a given IP address.
 
 ## Data sources
-- VirusTotal — malicious detection count across 70+ antivirus engines
-- AbuseIPDB — abuse confidence score and report history
-- Shodan — open ports, services, and known CVEs
+- VirusTotal: malicious detection count across 70+ antivirus engines
+- AbuseIPDB: abuse confidence score and report history
+- Shodan: open ports, services, and known CVEs
 
 ## Usage
 ```bash
